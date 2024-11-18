@@ -15,7 +15,7 @@ CP_Lord is a Discord bot designed to help competitive programmers stay up-to-dat
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/CP_Lord.git
+    git clone https://github.com/Samiul191139/CP_Lord.git
     cd CP_Lord
     ```
 
