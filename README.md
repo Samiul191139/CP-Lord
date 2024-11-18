@@ -6,6 +6,8 @@ CP_Lord is a Discord bot designed to help competitive programmers stay up-to-dat
 
 ## Features
 
+![](Assets/CPlord.gif)
+
 - Fetches upcoming contests from Codeforces and other popular CP websites.
 - Sends reminders for contests starting in less than 3 days.
 - Provides information on contest name, date, duration, and more.
